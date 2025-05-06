@@ -1,0 +1,27 @@
+main{
+  width: 800px;
+  height: 600px;
+  background-color: brown;
+  position: relative;
+ top: 0;
+ left: 0 ;
+}
+
+.primeira{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: absolute;
+ bottom: 0;
+ right: 0 ;
+}
+
+.segunda{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: fixed;
+ bottom: 0;
+ left: 0 ;
+ top: 0;
+}
